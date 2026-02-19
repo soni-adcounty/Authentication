@@ -37,4 +37,4 @@ This project uses **MongoDB (Local)** as the database.
 ### Connection String (Local)
 
 ```env
-MONGODB_URI=mongodb://localhost:27017/authenticationDB```
+MONGODB_URI=mongodb://localhost:27017/authenticationDB
