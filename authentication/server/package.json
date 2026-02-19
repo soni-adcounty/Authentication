@@ -21,6 +21,9 @@
     "nodemailer": "^8.0.0"
   },
   "devDependencies": {
+    "@ljharb/tsconfig": "^0.3.2",
+    "@types/webidl-conversions": "^7.0.3",
+    "@types/whatwg-url": "^13.0.0",
     "nodemon": "^3.1.11"
   }
 }
